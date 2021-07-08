@@ -1,4 +1,6 @@
-
+header h1{
+  text-align: center;
+}
 #artical{
   position: relative;
 }
@@ -18,5 +20,6 @@
   position: relative;
   width: 40%;
   overflow: scroll;
+  margin: auto;
 
 }
