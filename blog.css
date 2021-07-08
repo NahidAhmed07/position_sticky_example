@@ -1,0 +1,22 @@
+
+#artical{
+  position: relative;
+}
+#art-header{
+  position:sticky;
+  top: 0;
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+  background:gray;
+}
+
+#main{
+  border: 1px solid #000; 
+  padding:0 30px 30px 30px;
+  height: 70vh;
+  position: relative;
+  width: 40%;
+  overflow: scroll;
+
+}
